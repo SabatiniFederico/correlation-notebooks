@@ -43,6 +43,23 @@ SYMBOL_GROUPS_YAHOO = {
         "^TNX": "Bonos 10 años",
         "^TYX": "Bonos 30 años"
     },
+    "forex": {
+        "EURUSD=X": "Euro/Dólar",
+        "USDJPY=X": "Dólar/Yen",
+        "GBPUSD=X": "Libra/Dólar",
+        "AUDUSD=X": "Dólar Australiano/Dólar",
+        "USDCAD=X": "Dólar Canadiense/Dólar",
+        "USDCHF=X": "Dólar/Franco Suizo",
+        "NZDUSD=X": "Dólar Neozelandés/Dólar",
+        'EURJPY=X': "Euro/Yen",
+        'EURGBP=X': "Euro/Libra",
+        'CHFJPY=X': "Franco Suizo/Yen",
+        'AUDJPY=X': "Dólar Australiano/Yen",
+        'EURAUD=X': "Euro/Dólar Australiano",
+        'GBPJPY=X': "Libra/Yen",
+        'GBPAUD=X': "Libra/Dólar Australiano",
+        'AUDNZD=X': "Dólar Australiano/Dólar Neozelandés"
+    },
     "stocks": {
         "AAPL": "Apple",
         "MSFT": "Microsoft",

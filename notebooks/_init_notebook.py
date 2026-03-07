@@ -61,5 +61,6 @@ print(f"Project root es: {PROJECT_ROOT}")
 from utils.tests.backtesting import *
 from utils.indicators.ta_generic_indicators import *
 from utils.constants.stock_symbols import SYMBOL_GROUPS_YAHOO, START_DATE_2000, YAHOO_1D_DIR
+from utils.correlations.correlations_vectorized import *
 
 print("Entorno inicializado.")

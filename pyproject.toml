@@ -1,0 +1,41 @@
+[tool.poetry]
+name = "correlation-notebooks"
+version = "0.1.0"
+description = "Market research and correlation analysis platform for crypto, stocks, commodities and other financial markets"
+authors = ["Federico"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+# Data
+pandas = "^2.2"
+numpy = "^2.2"
+yfinance = "^0.2"
+
+# Statistical analysis
+scipy = "^1.15"
+scikit-learn = "^1.6"
+
+# ML models
+lightgbm = "^4.6"
+xgboost = "^3.0"
+
+# Technical analysis indicators
+ta = "^0.11"
+
+# Visualization
+matplotlib = "^3.10"
+seaborn = "^0.13"
+
+# Notebooks
+jupyterlab = "^4.4"
+ipykernel = "^6.29"
+
+# Utils
+tqdm = "^4.67"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
