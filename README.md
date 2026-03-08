@@ -1,7 +1,8 @@
 # correlation-notebooks
 
-Plataforma de research financiero cuantitativo orientada a cripto, con datos de múltiples mercados y análisis estadístico para identificar patrones y relaciones predictivas.
+Plataforma de research financiero, con datos de múltiples mercados y análisis estadístico para identificar patrones y relaciones predictivas.
 
+Es un proyecto de juguete para hacer análisis de correlaciones y de estadística mayoritariamente, con setup configurado para trabajar con LLms en el futuro.
 ---
 
 ## Objetivo
